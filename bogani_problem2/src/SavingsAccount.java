@@ -1,5 +1,3 @@
-package bogani_problem2;
-
 public class SavingsAccount{
     private static double annualInterestRate;
     private double savingsBalance;

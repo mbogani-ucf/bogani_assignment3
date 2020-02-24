@@ -1,4 +1,3 @@
-package bogani_problem1;
 import java.security.SecureRandom;
 import java.util.*;
 

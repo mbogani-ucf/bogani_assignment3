@@ -1,5 +1,3 @@
-package bogani_problem2;
-
 public class SavingsAccountTest {
     public static void main(String[] args){
         SavingsAccount saver1, saver2;
